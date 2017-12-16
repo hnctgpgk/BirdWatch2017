@@ -8,7 +8,7 @@ https://maoudamashii.jokersounds.com/list/bgm11.html
 制作者: 魔王魂  
 ライセンス: https://maoudamashii.jokersounds.com/music_rule.html  
 
-- くっついた時の効果音 (Assets/bgm,SE/chicken-cry1.mp3)  
+- 倒した時の効果音 (Assets/bgm,SE/chicken-cry1.mp3)  
 自然・動物[1] / ニワトリの鳴き声  
 Copyright (c) 2013-2017 効果音ラボ All Rights Reserved.  
 https://soundeffect-lab.info/sound/animal/  
